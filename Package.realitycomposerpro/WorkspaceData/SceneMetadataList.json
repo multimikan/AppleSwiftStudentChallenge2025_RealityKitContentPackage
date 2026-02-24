@@ -3,7 +3,156 @@
     "objectMetadataList" : [
       [
         "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Target",
+        "imagetostl_mesh10"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Hourglass",
+        "geom",
+        "realistic"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Target"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
         "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Shinai_1_1",
+        "imagetostl_mesh10",
+        "imagetostl_mesh10"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Hourglass",
+        "geom",
+        "realistic",
+        "materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Hourglass",
+        "geom"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Target",
+        "men_huton"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Infomation"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Bogu",
+        "___________________001"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Shinai",
+        "geom",
+        "realistic"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Shinai",
+        "geom",
+        "realistic",
+        "materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Target",
+        "Hit"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "SkySphere"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
+        "Root",
+        "Target",
+        "Information",
+        "Men"
       ],
       {
         "isExpanded" : true,
@@ -33,84 +182,11 @@
       [
         "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
         "Root",
-        "Infomation"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Hourglass",
-        "geom"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Shinai",
-        "geom",
-        "realistic"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Target",
-        "men_huton"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
         "Shinai",
         "geom",
         "realistic",
         "geo",
         "lod0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Hourglass",
-        "geom",
-        "realistic",
-        "materials"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Target",
-        "Hit"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Hourglass",
-        "geom",
-        "realistic"
       ],
       {
         "isExpanded" : true,
@@ -142,82 +218,6 @@
         "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
         "Root",
         "Target",
-        "Information",
-        "Men"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Shinai",
-        "geom",
-        "realistic",
-        "materials"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "SkySphere"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Target"
-      ],
-      {
-        "disallowsFraming" : false,
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Bogu",
-        "___________________001"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Target",
-        "imagetostl_mesh10",
-        "imagetostl_mesh10"
-      ],
-      {
-        "disallowsFraming" : false,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Target",
-        "imagetostl_mesh10"
-      ],
-      {
-        "disallowsFraming" : false,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
-        "Root",
-        "Shinai_1_1",
         "imagetostl_mesh10",
         "imagetostl_mesh10"
       ],

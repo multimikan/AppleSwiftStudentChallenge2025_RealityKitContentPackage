@@ -2,6 +2,7 @@
   "pathsToIds" : {
     "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "A05C4E7B-4E89-458C-9192-5FE13C0D7ABF",
     "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled%20Scene.usda" : "0350209B-E876-4F71-A498-B9D835B83A86",
+    "AppleSwiftStudentChallenge2025_RealityKitContentPackage\/Sources\/AppleSwiftStudentChallenge2025_RealityKitContentPackage\/AppleSwiftStudentChallenge2025_RealityKitContentPackage.rkassets\/Scene.usda" : "1309F3FD-A1E2-4C02-B270-281DBF70164F",
     "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "551A6A8F-0929-4A60-B97B-FB786CA6D7B5",
     "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene2.usda" : "1CA3515D-B988-4838-A230-06D6FA9516D8",
     "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "E0DE89FF-67FC-4BDC-9780-C218B8E7B473"
@@ -9,6 +10,7 @@
   "projectID" : 8862215865880967022,
   "uuidToIntID" : {
     "0350209B-E876-4F71-A498-B9D835B83A86" : -514542965538497678,
+    "1309F3FD-A1E2-4C02-B270-281DBF70164F" : 5560308686984566937,
     "1CA3515D-B988-4838-A230-06D6FA9516D8" : -2267318217415540870,
     "551A6A8F-0929-4A60-B97B-FB786CA6D7B5" : -803919608181736813,
     "E0DE89FF-67FC-4BDC-9780-C218B8E7B473" : -7044250176946863526
