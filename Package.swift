@@ -20,7 +20,7 @@ let package = Package(
         .target(
             name: "AppleSwiftStudentChallenge2025_RealityKitContentPackage",
             dependencies: [],
-            path: "Sources/AppleSwiftStudentChallenge2025_RealityKitContentPackage"
+//            path: "Sources/AppleSwiftStudentChallenge2025_RealityKitContentPackage"
         ),
     ]
 )
