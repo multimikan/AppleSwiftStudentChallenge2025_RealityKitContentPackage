@@ -20,7 +20,7 @@ let package = Package(
         .target(
             name: "AppleSwiftStudentChallenge2025_RealityKitContentPackage",
             resources: [
-                    .process("AppleSwiftStudentChallenge2025_RealityKitContentPackage.rkassets")
+                .copy("AppleSwiftStudentChallenge2025_RealityKitContentPackage.rkassets")
                 ]
         ),
     ]
