@@ -19,9 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "AppleSwiftStudentChallenge2025_RealityKitContentPackage",
-            resources: [
-                .copy("AppleSwiftStudentChallenge2025_RealityKitContentPackage.rkassets")
-                ]
+            dependencies: [],
+            path: "Sources/AppleSwiftStudentChallenge2025_RealityKitContentPackage"
         ),
     ]
 )
